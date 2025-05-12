@@ -1,0 +1,44 @@
+{
+    "humidity(%)": [
+        {
+            "timestamp": "2025-04-04 15:01:56",
+            "value": "50.5"
+        }
+    ],
+    "light_level(lux)": [
+        {
+            "timestamp": "2025-04-04 15:01:56",
+            "value": "4876.67"
+        }
+    ],
+    "rain_level(%)": [
+        {
+            "timestamp": "2025-04-04 15:01:56",
+            "value": "0"
+        }
+    ],
+    "soil_moisture_1(%)": [
+        {
+            "timestamp": "2025-04-04 15:01:56",
+            "value": "48"
+        }
+    ],
+    "soil_moisture_2(%)": [
+        {
+            "timestamp": "2025-04-04 15:01:56",
+            "value": "55"
+        }
+    ],
+    "temperature(°C)": [
+        {
+            "timestamp": "2025-04-04 15:01:56",
+            "value": "38.5"
+        }
+    ],
+    "water_level(%)": [
+        {
+            "timestamp": "2025-04-04 15:01:56",
+            "value": "0"
+        }
+    ]
+}
